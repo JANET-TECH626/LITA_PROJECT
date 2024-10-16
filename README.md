@@ -15,8 +15,10 @@ The primary source of Data used here is Data Sale.csv and this is an open source
   2. For analysis
   3. For data visualization
      
-- SQL- Structured Query Language for querying of data 
-- Github for portfolio  building
+- SQL- Structured Query Language [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=2b7beaf97efb6b170d9dfff87f1b6a9f)
+  1. For querying of data
+     
+- Github for portfolio building [Click here to sign up](https://github.com/)
 
 ### PROJECT OVERVIEW
 
