@@ -10,7 +10,7 @@ This Data Analysis project aims to generate insight into the performance of the 
 The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site. 
 
 ### TOOLS USED
-- Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Microsoft Excel [Download here](https://www.microsoft.com)
   1. For data cleaning
   2. For analysis
   3. For data visualization
