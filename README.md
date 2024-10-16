@@ -1,10 +1,13 @@
-# LITA_PROJECT
-THIS IS WHERE I DOCUMENTED MY FIRST PROJECT WHILE LEARNING DATA ANALYSIS @ THE INCUBATOR HUB  
-### PROJECT TITLE
----
-[PROJECT OVERVIEW](project-overview)
+# LITA_CLASS_PROJECT
+This is where I documented my first project while learning Data Analysis with The Incubator Hub
 
-DATA SOURCES
+### PROJECT TITLE: E-COMMERCE SALES ANALYSIS
+
+[PROJECT OVERVIEW](project-overview)
+This Data Analysis project aims to generate insight into the performance of the E-Commerce Project over the past year. By analysing the various parameters in the data received we seek to gather enough insight into making reasonable decisions which then enables us to tell compelling stories around our data from the insight gotten and to know the best performance from the data.
+ 
+### DATA SOURCES
+The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site. 
 
 TOOLS USED
 
