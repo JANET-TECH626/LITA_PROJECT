@@ -3,7 +3,21 @@ This is where I documented my first project while learning Data Analysis with Th
 
 ### PROJECT TITLE: E-COMMERCE SALES ANALYSIS
 
-[PROJECT OVERVIEW](project-overview)
+[PROJECT OVERVIEW](#project-overview)
+
+[DATA SOURCES](#data-source)
+
+[TOOLS USED](#tools-used)
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparation)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
+
+### PROJECT OVERVIEW
 ---
 This Data Analysis project aims to generate insight into the performance of the E-Commerce Project over the past year. By analysing the various parameters in the data received we seek to gather enough insight into making reasonable decisions which then enables us to tell compelling stories around our data from the insight gotten and to know the best performance from the data.
  
@@ -45,3 +59,9 @@ This is where we include some basic lines of code or queries or even some the DA
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ``` 
+### DATA VISUALIZATION
+
+
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|---------|---------|
+| table 1 | table 2 | table 3 |
