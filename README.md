@@ -5,11 +5,11 @@ This is where I documented my first project while learning Data Analysis with Th
 
 [PROJECT OVERVIEW](#project-overview)
 
-[DATA SOURCES](#data-source)
+[DATA SOURCES](#data-sources)
 
 [TOOLS USED](#tools-used)
 
-[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparation)
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
 
 [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
