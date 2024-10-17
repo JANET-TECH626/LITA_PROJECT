@@ -60,8 +60,7 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ``` 
 ### DATA VISUALIZATION
-
-
+---
 |HEADING 1|HEADING 2|HEADING 3|
 |---------|---------|---------|
 | table 1 | table 2 | table 3 |
